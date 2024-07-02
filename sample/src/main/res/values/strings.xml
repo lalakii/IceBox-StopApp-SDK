@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="icebox_sdk_kt">IceBox-SDK.kt Demo</string>
+    <string name="enable_app">解冻并打开</string>
+    <string name="disable_app">冻结</string>
+    <string name="ok">已冻结</string>
+    <string name="done">解冻并打开：</string>
+    <string name="err">此应用无法打开，可能没有主界面</string>
+</resources>
